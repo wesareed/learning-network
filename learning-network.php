@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Learning Netowrk
+ * Plugin Name: Learning Network
  * Plugin URI: https://www.wesreed.co/
  * Description: Registers custom post types and taxonomies
  * Version: 1.0
